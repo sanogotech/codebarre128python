@@ -11,9 +11,12 @@ pip install treepoem
 
 ## CLI
 
+```
 treepoem --type code128 --output code128.png PyBay2018
 
 treepoem --type qrcode --output qr.gif  https://jonasneubert.com/talks/pybay2018.html  eclevel=Q
+
+```
 
 ##  Code Sample
 
