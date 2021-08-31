@@ -7,7 +7,9 @@ https://www.codeodis.com/content/24-polices-code-barre
 Police Code Barre  en code barre ou par code python.
 
 ## Install
+```
 pip install treepoem
+```
 
 ## CLI
 
