@@ -30,6 +30,10 @@ img.convert('1').save('qr.gif')
 
 ```
 
-##  Code 128  example
+##  Code 128  example 
+
+```
+treepoem --type code128 --output code128.png PyBay2018
+```
 
 ![Code 128](https://github.com/sanogotech/codebarre128python/blob/main/code128.png "Code 128")
