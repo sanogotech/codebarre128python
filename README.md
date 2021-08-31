@@ -10,7 +10,9 @@ Police Code Barre  en code barre ou par code python.
 ```
 pip install treepoem
 ```
+Install ghostscript :  https://www.ghostscript.com/download/gsdnld.html
 
+PATH= C:\Program Files\gs\gs9.54.0\bin
 ## CLI
 
 ```
