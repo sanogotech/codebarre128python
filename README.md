@@ -29,3 +29,7 @@ img.convert('1').save('qr.gif')
 
 
 ```
+
+##  Code 128  example
+
+![image text](image https://github.com/sanogotech/codebarre128python/blob/main/code128.png "Code 128")
